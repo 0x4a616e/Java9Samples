@@ -4,11 +4,11 @@ This projects contains a set of example classes using new Java 9 features.
 
 ## Build the project using maven
 
-    mvn package
+    mvn compile
 
 # Running Examples
 
     // Outline the content of the module
-    java -jar target/Java9Samples-1.0-SNAPSHOT.jar
+    java -mp target/classes -m de.jangassen/de.jangassen.Overview
 
 Browse the code for other examples with `main` methods and run them from the jar.
