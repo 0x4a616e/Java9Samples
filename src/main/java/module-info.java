@@ -1,3 +1,3 @@
 module de.jangassen {
-    exports de.jangassen.ProcessApi;
+    exports de.jangassen.processApi;
 }

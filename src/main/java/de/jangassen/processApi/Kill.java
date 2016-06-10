@@ -1,4 +1,4 @@
-package de.jangassen.ProcessApi;
+package de.jangassen.processApi;
 
 /**
  * Created by jan on 31/05/16.

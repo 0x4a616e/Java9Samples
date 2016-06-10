@@ -1,4 +1,4 @@
-package de.jangassen.ProcessApi;
+package de.jangassen.processApi;
 
 import java.util.Arrays;
 import java.util.Collection;
